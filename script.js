@@ -15,7 +15,7 @@ function renderGate() {
   embedContainer.innerHTML = `
     <div class="cookie-gate">
       <p class="cookie-gate__text">
-        Per ascoltare i brani è necessario accettare i cookie di terze parti impostati da SoundCloud.
+        Per ascoltare i brani è necessario accettare i cookie di terze parti richiesti da SoundCloud.
         <a href="privacy.html">Scopri di più</a>.
       </p>
       <div class="cookie-gate__actions">
